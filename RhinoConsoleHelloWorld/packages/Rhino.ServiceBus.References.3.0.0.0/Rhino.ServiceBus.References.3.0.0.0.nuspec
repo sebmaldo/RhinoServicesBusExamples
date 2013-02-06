@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Rhino.ServiceBus.References</id>
+    <version>3.0.0.0</version>
+    <authors>Ayende Rahien,  Corey Kaylor</authors>
+    <owners>Ayende Rahien,  Corey Kaylor</owners>
+    <licenseUrl>https://raw.github.com/hibernating-rhinos/rhino-esb/master/license.txt</licenseUrl>
+    <projectUrl>https://github.com/hibernating-rhinos/rhino-esb</projectUrl>
+    <iconUrl>https://github.com/hibernating-rhinos/rhino-esb/wiki/images/rhino-icon.jpg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Referenced libs for Rhino.ServiceBus and related assemblies.</description>
+    <tags>persistence rhino esent</tags>
+    <references>
+      <reference file="Esent.Interop.dll" />
+    </references>
+  </metadata>
+</package>
