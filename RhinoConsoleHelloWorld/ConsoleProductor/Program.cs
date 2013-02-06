@@ -10,6 +10,7 @@ namespace ConsoleProductor
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();-
         }
     }
 }
